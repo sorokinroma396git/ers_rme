@@ -1,1 +1,0 @@
-export { MyTrackerAdapter } from './MyTrackerAdapter';
